@@ -1,0 +1,12 @@
+{
+  "name": "minimal",
+  "description": "Configuración mínima esencial",
+  "agents": [
+    "agents/_primary/lexis.md",
+    "agents/_primary/Constructor.md",
+    "agents/_primary/prometheus.md"
+  ],
+  "skills": [
+    "skills/_core/*"
+  ]
+}

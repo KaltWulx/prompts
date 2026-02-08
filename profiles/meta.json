@@ -1,0 +1,12 @@
+{
+  "name": "meta",
+  "description": "Agentes para crear y mejorar el sistema mismo",
+  "agents": [
+    "agents/_primary/prometheus.md",
+    "agents/_subagents/zeteo.md"
+  ],
+  "skills": [
+    "skills/meta/*",
+    "skills/research/*"
+  ]
+}

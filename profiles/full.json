@@ -1,0 +1,14 @@
+{
+  "name": "full",
+  "description": "Instalación completa con todos los agentes y skills",
+  "agents": [
+    "agents/_primary/lexis.md",
+    "agents/_primary/architect.md",
+    "agents/_primary/Constructor.md",
+    "agents/_primary/designer-ux.md",
+    "agents/_primary/designer-ui.md",
+    "agents/_primary/prometheus.md",
+    "agents/_subagents/zeteo.md"
+  ],
+  "skills": "all"
+}

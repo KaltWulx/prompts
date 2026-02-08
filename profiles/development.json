@@ -1,0 +1,17 @@
+{
+  "name": "development",
+  "description": "Flujo completo de desarrollo: Lexis, Architect, Constructor",
+  "agents": [
+    "agents/_primary/lexis.md",
+    "agents/_primary/architect.md",
+    "agents/_primary/Constructor.md",
+    "agents/_subagents/zeteo.md"
+  ],
+  "skills": [
+    "skills/_core/git-workflow",
+    "skills/_core/code-review",
+    "skills/development/*",
+    "skills/architecture/*",
+    "skills/research/*"
+  ]
+}

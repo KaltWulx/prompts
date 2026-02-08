@@ -1,0 +1,13 @@
+{
+  "name": "design",
+  "description": "Agentes y skills para diseño UX/UI",
+  "agents": [
+    "agents/_primary/designer-ux.md",
+    "agents/_primary/designer-ui.md",
+    "agents/_subagents/zeteo.md"
+  ],
+  "skills": [
+    "skills/design/*",
+    "skills/research/*"
+  ]
+}
