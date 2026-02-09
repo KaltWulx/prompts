@@ -8,7 +8,7 @@ Crear un ecosistema de agentes de IA especializados que trabajen juntos para res
 
 ## 📦 Contenido
 
-### Agentes Primarios (6)
+### Agentes Primarios (8)
 
 | Agente | Emoji | Rol | Descripción |
 |--------|-------|-----|-------------|
@@ -18,6 +18,8 @@ Crear un ecosistema de agentes de IA especializados que trabajen juntos para res
 | **Designer-UX** | 🎨 | UX | Diseña flujos de usuario e interacciones |
 | **Designer-UI** | 🎨 | UI | Crea interfaces visuales y sistemas de diseño |
 | **Prometheus** | 🔥 | Meta | Orquesta la creación de agentes y skills |
+| **Virgilio** | 📜 | Guía | Guía intelectual de análisis y decisiones complejas |
+| **Prompt-Maker** | ✏️ | Optimización | Transforma prompts vagos en estructuras efectivas |
 
 ### Subagentes (1)
 
@@ -25,12 +27,11 @@ Crear un ecosistema de agentes de IA especializados que trabajen juntos para res
 |--------|-------|-----|
 | **Zeteo** | 🔎 | Investigación y búsqueda de información |
 
-### Subagentes Internos (3)
+### Subagentes Internos (2)
 
 Estos son gestionados por Prometheus y no son visibles directamente:
 - **Agent-Maker**: Crea nuevos agentes
 - **Skill-Maker**: Crea nuevas skills
-- **Prompt-Maker**: Optimiza prompts
 
 ## 🚀 Instalación Rápida
 
