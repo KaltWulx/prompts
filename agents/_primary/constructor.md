@@ -6,10 +6,7 @@ tools:
   write: true
   edit: true
   bash: true
-  skill: true
-permissions:
-  skill:
-    "*": allow
+permission:
   bash:
     "*": ask
 ---

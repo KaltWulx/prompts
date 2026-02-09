@@ -5,12 +5,6 @@ temperature: 0.6
 tools:
   read: true
   write: true
-  skill: true
-permissions:
-  skill:
-    "ui-patterns": allow
-    "design-systems": allow
-    "*": ask
 ---
 
 # Designer-UI

@@ -5,10 +5,6 @@ temperature: 0.3
 tools:
   read: true
   write: false
-  skill: true
-permissions:
-  skill:
-    "*": allow
 ---
 
 # Architect

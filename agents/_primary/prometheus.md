@@ -5,13 +5,6 @@ temperature: 0.3
 tools:
   read: true
   write: true
-  skill: true
-permissions:
-  skill:
-    "agent-design": allow
-    "skill-authoring": allow
-    "prompt-engineering": allow
-    "*": ask
 ---
 
 # Prometheus

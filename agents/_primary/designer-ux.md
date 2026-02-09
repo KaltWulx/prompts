@@ -5,11 +5,6 @@ temperature: 0.5
 tools:
   read: true
   write: true
-  skill: true
-permissions:
-  skill:
-    "ux-research": allow
-    "*": ask
 ---
 
 # Designer-UX

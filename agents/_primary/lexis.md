@@ -6,10 +6,6 @@ tools:
   read: true
   glob: true
   grep: true
-  skill: true
-permissions:
-  skill:
-    "*": allow
 ---
 
 # Lexis

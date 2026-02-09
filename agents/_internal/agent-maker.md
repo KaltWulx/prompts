@@ -6,10 +6,6 @@ temperature: 0.3
 tools:
   read: true
   write: true
-  skill: true
-permissions:
-  skill:
-    "agent-design": allow
 ---
 
 # Agent-Maker

@@ -4,11 +4,6 @@ mode: primary
 temperature: 0.4
 tools:
   read: true
-  skill: true
-permissions:
-  skill:
-    "prompt-engineering": allow
-    "*": ask
 ---
 
 # Prompt-Maker

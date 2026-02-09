@@ -6,10 +6,6 @@ tools:
   read: true
   websearch: true
   webfetch: true
-  skill: true
-permissions:
-  skill:
-    "*": allow
 ---
 
 # Virgilio
