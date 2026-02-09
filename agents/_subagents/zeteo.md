@@ -9,8 +9,6 @@ tools:
   glob: true
   read: true
   bash: true
-skills:
-  - research/information-retrieval
 ---
 
 # Zeteo
