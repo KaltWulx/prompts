@@ -121,6 +121,11 @@ install_all_agents() {
         [ -e "$agent" ] && install_agent "$agent" "$dest_dir"
     done
     
+    # Internal agents (used by Prometheus)
+    for agent in "$SCRIPT_DIR/agents/_internal"/*.md; do
+        [ -e "$agent" ] && install_agent "$agent" "$dest_dir"
+    done
+    
     log_success "All agents installed"
 }
 
