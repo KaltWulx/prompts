@@ -1,6 +1,6 @@
 ---
 description: Universal search agent. Finds anything anywhere with full traceability
-mode: subagent
+mode: primary
 temperature: 0.2
 tools:
   websearch: true
