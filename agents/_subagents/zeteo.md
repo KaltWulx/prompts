@@ -9,6 +9,9 @@ tools:
   glob: true
   read: true
   bash: true
+  question: true
+  todowrite: true
+  todoread: true
 ---
 
 # Zeteo
